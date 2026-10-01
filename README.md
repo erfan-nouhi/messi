@@ -1,0 +1,1 @@
+this projects aim at teaching remote collaboration in github
